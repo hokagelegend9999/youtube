@@ -4,11 +4,4 @@ echo -e " ${z}╭═════════════════════
 echo -e " ${z}│$NC${f}     WELCOME TO  HOKAGE LEGEND AUTOSCRIPT PREMIUM      $NC${z}│$NC"
 echo -e " ${z}╰══════════════════════════════════════════════════════════╯${NC}"
 
-x)
-menu
-;;
-*) clear ;
-echo -e 
-menu
-;;
-esac
+
